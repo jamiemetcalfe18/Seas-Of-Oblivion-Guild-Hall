@@ -8,5 +8,4 @@
 ## Author: |c3aeeee@Oceanbluee|r
 ## Version: 0.0.1
 ## APIVersion: 100034
-
 SeasGuildHall.lua
