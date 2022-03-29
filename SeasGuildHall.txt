@@ -8,6 +8,5 @@
 ## Author: |c3aeeee@Oceanbluee|r
 ## Version: 1
 ## APIVersion: 100034
-## SavedVariables: OSIStore
 
 SeasGuildHall.lua
