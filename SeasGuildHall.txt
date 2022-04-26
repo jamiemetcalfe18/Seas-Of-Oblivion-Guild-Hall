@@ -5,6 +5,7 @@
 ; https://account.elderscrollsonline.com/add-on-terms
 
 ## Title: Seas of Oblivion Guild Hall
+## DependsOn: LibCustomMenu
 ## Author: |c3aeeee@Oceanbluee|r
 ## Version: 0.0.1
 ## APIVersion: 100034
