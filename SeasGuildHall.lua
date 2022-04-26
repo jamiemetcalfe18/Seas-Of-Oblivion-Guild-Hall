@@ -9,9 +9,9 @@ MLbtn =  WINDOW_MANAGER:CreateControl("MaxMLGH", ZO_ChatWindow, CT_BUTTON)
     MLbtn:SetAnchor(TOPLEFT, ZO_ChatOptionsSectionLabel, TOPLEFT, 200, 13)
     MLbtn:SetHandler("OnMouseEnter", function(control) InitializeTooltip(InformationTooltip, control) SetTooltipText(InformationTooltip, "Seas of Oblivion") end)
 	MLbtn:SetHandler("OnMouseExit", function(control) ClearTooltip(InformationTooltip) end)
-    MLbtn:SetNormalTexture("SeasGuildHall/img/S0.dds")
-    MLbtn:SetPressedTexture("SeasGuildHall/img/S0.dds")
-    MLbtn:SetMouseOverTexture("SeasGuildHall/img/S0.dds")	
+    MLbtn:SetNormalTexture("SeasGuildHall/img/SO.dds")
+    MLbtn:SetPressedTexture("SeasGuildHall/img/SO.dds")
+    MLbtn:SetMouseOverTexture("SeasGuildHall/img/SO.dds")	
 	MLbtn:SetHandler("OnClicked", function(...)
 		local entries = {
               {
