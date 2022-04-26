@@ -22,8 +22,8 @@ MLbtn =  WINDOW_MANAGER:CreateControl("MaxMLGH", ZO_ChatWindow, CT_BUTTON)
                 label = "-",
               },
               {
-                label = "Guild Master",
-                callback = function() JumpToSpecificHouse("@Oceanbluee", 86) end,
+                label = "Parse House",
+                callback = function() JumpToSpecificHouse("@Oceanbluee", 13) end,
               },
             }
 			ClearMenu()
