@@ -7,4 +7,3 @@ A simple addon that lets you travel to the Seas of Oblivion guild hall by simply
 
 Planned features:
 -Teleport to secret parse house
--Include discord link
