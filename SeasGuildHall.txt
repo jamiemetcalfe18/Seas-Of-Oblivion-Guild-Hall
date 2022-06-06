@@ -7,6 +7,6 @@
 ## Title: Seas of Oblivion Guild Hall
 ## DependsOn: LibCustomMenu
 ## Author: |c3aeeee@Oceanbluee|r
-## Version: 0.0.1
+## Version: 0.0.2
 ## APIVersion: 100034
 SeasGuildHall.lua
